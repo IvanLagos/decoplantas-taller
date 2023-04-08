@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+.header{
+    background-image: url(../imgs/fondo.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100px;
+    padding: 50px;
+    font-size: 20px;
+}
+.header h1{
+    margin: 0px;
+    font-weight: 400;
+}
+.header h2{
+    margin: 0px;
+    font-weight: 400;
+}
+.products {
+    width: 80%;
+    margin: auto;
+}
+.products td{
+    width: 10%;
+    padding: 20px;
+}
+.products img{
+    width: 80%;
+    border: solid 1px #ffffff;
+}
+.footer{
+    height: 30px;
+    line-height: 30px;
+    background-color: rgb(195, 114, 15);
+    color: white;   
+    text-align: center;
+    font-weight: 400;
+}
+  
